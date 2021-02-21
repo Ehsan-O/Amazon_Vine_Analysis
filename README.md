@@ -128,4 +128,4 @@ For this project we used Jupyter notebook, and Pandas package. In this section w
     </center>
     &nbsp;
 
-  Now, considering how all ratings (from one star to five stars) are distributed in each group we can say that there might be evidence indicating some degree of bias toward the Vine reviews. There is not even a single 1 star review in Vine reviews, only a small percentage of the reviews are 2 stars in that group, and 33 percent of the reviews are 4 stars in Vine reviews while non-Vine group 17 percent four stars reviews.
+  Now, considering how all ratings (from one star to five stars) are distributed in each group we can say that there might be evidence indicating some degree of bias toward the Vine reviews. There is not even a single 1 star review in Vine reviews, only a small percentage of the reviews are 2 stars in that group, and 33 percent of the reviews are 4 stars in Vine reviews while non-Vine group has 17 percent four stars reviews.
