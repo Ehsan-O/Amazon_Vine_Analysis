@@ -92,7 +92,7 @@ For this project we used Jupyter notebook, and Pandas package. In this section w
   </center>
   &nbsp;
 
-  There are 74 five star reviews for Vine reviews and 8,482 five star reviews for Vine reviews. 
+  There are 74 five star reviews for Vine reviews and 8,482 five star reviews for non-Vine reviews. 
   &nbsp;
 
 - Having the total number of reviews and the number of five star reviews for both Vine and non-Vine groups we can calculate the percentage of 5 stars reviews in each of these groups:
