@@ -71,7 +71,7 @@ For this project we used Jupyter notebook, and Pandas package. In this section w
   </center>
   &nbsp;
 
-  We can see that the total number of Vine and non-vine reviews are respectively 136 and 18,019. We also can confirm these numbers using the following two lines of code  
+  We can see that the total number of Vine and non-Vine reviews are respectively 136 and 18,019. We also can confirm these numbers using the following two lines of code  
   ```py
   total_vine_reviews = len(vine_reviews_df)
   total_non_vine_reviews = len(non_vine_reviews_df) 
